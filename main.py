@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # Замените 'YOUR_BOT_TOKEN' на токен вашего бота
-API_TOKEN = '7488943616:AAEXvhqRNTgjWVX96IHfumF89o5tgF7huik'
+API_TOKEN = 'Здесь должен быть ваш токен бота'
 
 bot = telebot.TeleBot(API_TOKEN)
 
